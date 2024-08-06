@@ -27,12 +27,12 @@ This boilerplate project aims to provide a solid foundation for building robust 
 
 ## Getting Started
 
-1. Clone the repository: `git clonehttps://github.com/Bagus-BW/Boilerplate-Express.js.git`
-2. Install dependencies: `yarn install` or `pnpm install`
+1. Clone the repository: `git clone https://github.com/Bagus-BW/Boilerplate-Express.js.git`
+2. Install dependencies: `npm install` or `yarn install` or `pnpm install`
 3. Create a new database and update the `knexfile.js` configuration
-4. Run the migrations: `yarn db:migrate` or `pnpm db:migrate`
-4. Run the Seeders: `yarn db:seed` or `pnpm db:seed`
-5. Start the server: `yarn dev` or `pnpm dev`
+4. Run the migrations: `npm db:migrate` or `yarn db:migrate` or `pnpm db:migrate`
+4. Run the Seeders: `npm db:seed` or `yarn db:seed` or `pnpm db:seed`
+5. Start the server: `npm run dev` or `yarn run dev` or `pnpm run dev`
 
 ## Validation
 
